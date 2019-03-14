@@ -1,5 +1,3 @@
-# howtoheroku
-
 ## So that I don't have to keep looking it up:
 
 Head to root directory of the repo that contains index.html which dictates the main HTML page.
