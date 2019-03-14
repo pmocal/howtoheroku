@@ -8,7 +8,7 @@ Add the following line: `{}` inside.
 
 Run `touch index.php` to create a file called index.php.
 
-Add the line: `<?php include_once("index.html"); ?>` inside.
+Add the line: `<?php include_once("index.html"); ?>` inside (or whatever the name of the HTML page is).
 
 Now update the repo on Github if it’s connected to your account or Heroku command `git push heroku master`.
 
